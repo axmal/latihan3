@@ -2,3 +2,5 @@ target tahun ini :
 1. hacker
 2. data science
 3. trader
+4. web dev
+
